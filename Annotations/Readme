@@ -1,1 +1,5 @@
 This subfolder contains all the plant and fungal annotations generated for the various analyses conducted as a part of the study.
+.pep.fasta extensions indicate peptide FASTA files
+.cds.fasta extensions indicate CDS FASTA files
+.Trinity.fasta files indicate transcriptome assemblies obtained using trinity
+.hints/gff3 or .gff3 extensions indicate GFF3 files
