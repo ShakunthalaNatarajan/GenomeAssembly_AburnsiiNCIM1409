@@ -5,7 +5,7 @@ The original FASTA file can be obtained by following the steps mentioned below:
 2. Download all the files in this folder to a separate folder in your pc
 3. Extract the first file with extension (001) to the folder in your local pc
 4. You will be able to get the original FASTA file back
-5. Once you get the whole FASTA file, you could cross-check if you have got the full original file by comparing with the following:
+5. Once you get the whole FASTA file, you could cross-check if you have got the full original file by generating its SHA256 file checksum and comparing it with the following:
 SHA256 File Checksum: 9c13354ab76e5aeb861d3a2c8b08e676a97ae0336b9ccdbf28f977026a9d453f
 
 Note: All the files in this folder should be downloaded to the same destination folder
