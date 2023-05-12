@@ -1,0 +1,11 @@
+This folder contains the compressed and split parts of the whole transcriptome assembly of Nothapodytes nimmoniana (leaf, root, stem).
+These split files were created by compressing and splitting the original FASTA file by using 7-zip
+The original FASTA file can be obtained by following the steps mentioned below:
+1. Download 7-zip from https://www.7-zip.org/ 
+2. Download all the files in this folder to a separate folder in your pc
+3. Extract the first file with extension (001) to the folder in your local pc
+4. You will be able to get the original FASTA file back
+5. Once you get the whole FASTA file, you could cross-check if you have got the full original file by comparing with the following:
+SHA256 File Checksum: 9c13354ab76e5aeb861d3a2c8b08e676a97ae0336b9ccdbf28f977026a9d453f
+
+Note: All the files in this folder should be downloaded to the same destination folder
